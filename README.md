@@ -15,3 +15,16 @@ intel xdk
 cordova
 
 visual studio + cordova
+
+
+CSS Components:
+
+refer this link:
+
+https://onsen.io/v2/api/css.html
+
+Javascript component:
+
+refer this link:
+
+https://onsen.io/v2/api/js/
